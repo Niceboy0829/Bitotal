@@ -5,6 +5,7 @@ import logo from './images/logo.png';
 import per from './images/per.jpg';
 import { Link } from 'react-router-dom'
 
+
 class Account extends React.Component {
     render(){
         return (
